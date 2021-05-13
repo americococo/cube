@@ -19,6 +19,7 @@ It's console Rubik cube
     
 ## console rubick cube view
 
+
 |    | top |    |  
 |:--- | :---: | :---: |  
 | * | * | * |  
@@ -32,18 +33,19 @@ It's console Rubik cube
 | * | * | * |                * | * | * |
 
 
-Exploded view
-fff
-fff
-fff
+### Exploded view
 
-aaa   bbb   ccc   ddd   
-aaa   bbb   ccc   ddd   
-aaa   bbb   ccc   ddd   
+fff <BR/>
+fff <BR/>
+fff <BR/>
 
-eee
-eee
-eee
+aaa   bbb   ccc   ddd   <BR/>
+aaa   bbb   ccc   ddd   <BR/>
+aaa   bbb   ccc   ddd   <BR/>
+
+eee <BR/>
+eee <BR/>
+eee <BR/>
 
 
 
